@@ -1,2 +1,1 @@
-# JS-Applications
-SoftUni Courses
+# SoftUni JS-Applications
